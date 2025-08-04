@@ -4,7 +4,7 @@ prettytable-rs
 # מטרה
 טבלאות, הדפסה, הוספה שורות ועמודות.
 
-# מימוש
+# מימוש בקובץ `Cargo.toml`
 
 ```toml
 [dependencies]

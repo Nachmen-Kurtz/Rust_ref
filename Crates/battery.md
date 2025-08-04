@@ -4,7 +4,7 @@ battery
 # מטרה
 סוללה של לפטופ
 
-# מימוש
+# מימוש בקובץ `Cargo.toml`
 
 ```toml
 [dependencies]

@@ -4,7 +4,7 @@ chrono
 # מטרה
 תאריך ושעה.
 
-# מימוש
+# מימוש בקובץ `Cargo.toml`
 
 ```toml
 [dependencies]

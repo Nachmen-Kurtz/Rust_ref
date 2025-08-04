@@ -4,7 +4,7 @@ clap
 # מטרה
 ארגומנטים לכלי שורת פקודה
 
-# מימוש
+# מימוש בקובץ `Cargo.toml`
 
 ```toml
 [dependencies]

@@ -4,7 +4,7 @@ tabled
 # מטרה
 הדפסת טבלאות, למשל לפקודות `ls`
 
-# מימוש
+# מימוש בקובץ `Cargo.toml`
 
 ```toml
 [dependencies]
